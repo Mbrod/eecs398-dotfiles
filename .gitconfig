@@ -1,1 +1,3 @@
-. ~/eecs398/dotfiles/.gitconfig
+[user]
+        email = mbrod@umich.edu
+        name = Marissa
